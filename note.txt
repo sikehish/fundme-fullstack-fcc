@@ -1,0 +1,6 @@
+When building Dapps, you usually have 2 repos
+
+- One for smart contracts
+-One for front end/website
+
+Full stack = Smart contract(backend) + html/js/webstuff (frontend)
